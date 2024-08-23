@@ -1,16 +1,16 @@
 INSPIRE
 =========================================================
 
-STitch3D Tutorials and Interactive 3D Results
+INSPIRE Tutorials
 ==================
 .. toctree::
    :maxdepth: 3
    
    tutorials/index.rst
 
-STitch3D Installation
+INSPIRE Installation
 ==================
 
 
-STitch3D Usage
+INSPIRE Usage
 ==================
