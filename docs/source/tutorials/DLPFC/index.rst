@@ -1,4 +1,4 @@
-Example 1: human dorsolateral prefrontal cortex (DLPFC) dataset.
+Example 1: Analysis of human dorsolateral prefrontal cortex (DLPFC) dataset.
 =========================================================
 
 .. toctree::
