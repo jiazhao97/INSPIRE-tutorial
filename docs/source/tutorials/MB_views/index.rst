@@ -1,4 +1,4 @@
-Example 1: Analysis of mouse brain slices with different views.
+Example 2: Analysis of mouse brain slices with complementary views.
 =========================================================
 
 .. toctree::
