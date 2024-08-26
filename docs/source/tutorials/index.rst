@@ -12,3 +12,4 @@ Tutorials
    developmental_stages/index.rst
    registration_merfish/index.rst
    registration_starmapplus/index.rst
+   3d_reconstruction/index.rst
