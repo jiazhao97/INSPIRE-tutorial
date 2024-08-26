@@ -5,3 +5,4 @@ Example 1: Analysis of human dorsolateral prefrontal cortex (DLPFC) dataset.
    :maxdepth: 2
    
    INSPIRE_DLPFC_rtd
+   DLPFC_scores_rtd
