@@ -1,16 +1,15 @@
-INSPIRE
+
+Tutorials
 =========================================================
 
-INSPIRE Tutorials
-==================
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
    
-   tutorials/index.rst
-
-INSPIRE Installation
-==================
-
-
-INSPIRE Usage
-==================
+   DLPFC/index.rst
+   MB_views/index.rst
+   diff_tech_brain/index.rst
+   diff_tech_embryo/index.rst
+   developmental_stages/index.rst
+   registration_merfish/index.rst
+   registration_starmapplus/index.rst
+   3d_reconstruction/index.rst
