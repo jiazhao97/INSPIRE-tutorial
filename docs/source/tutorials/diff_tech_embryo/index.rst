@@ -5,3 +5,4 @@ Example 4: Analysis of mouse whole-embryo slices across distinct ST technologies
    :maxdepth: 2
    
    INSPIRE_different_tech_embryo_rtd
+   difftech_embryo_spatial_factors
