@@ -1,6 +1,7 @@
 INSPIRE
 =========================================================
 
+
 INSPIRE Tutorials
 ==================
 .. toctree::
@@ -8,9 +9,6 @@ INSPIRE Tutorials
    
    tutorials/index.rst
 
+
 INSPIRE Installation
-==================
-
-
-INSPIRE Usage
 ==================
