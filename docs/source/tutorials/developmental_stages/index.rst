@@ -9,3 +9,4 @@ Example 5: Analysis of mouse whole-embryo slices across developmental stages.
    development_stages_liver_rtd
    developmental_stages_brainregionIII_rtd
    developmental_stages_factor_cp_rtd
+   developmental_stages_factor_smc_rtd
