@@ -5,3 +5,4 @@ Example 3: Analysis of mouse brain slices across distinct ST technologies.
    :maxdepth: 2
    
    INSPIRE_different_tech_brain_rtd
+   difftech_brain_slideseqv2_only_rtd
