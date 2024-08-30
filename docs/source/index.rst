@@ -12,3 +12,7 @@ INSPIRE Tutorials
 
 INSPIRE Installation
 ==================
+.. toctree::
+   :maxdepth: 2
+
+   installation.rst
