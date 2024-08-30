@@ -24,15 +24,15 @@ Software dependencies
 ---------------------
 .. code-block:: python
 
-   python>=3.7
-   pytorch>=1.6.0, <=1.13.1
-   scanpy=1.7.2
-   anndata=0.7.6
-   pandas=1.1.5
-   numpy>=1.19.0
-   louvain=0.7.0
-   leidenalg>=0.7.0
-   umap-learn>=0.4.6
-   pot>=0.8.0
-   numba>=0.49.1
-   matplotlib<3.7
+   python=3.8.15
+   pytorch=1.12.1
+   scanpy=1.8.2
+   anndata=0.9.2
+   pandas=1.5.3
+   numpy=1.24.4
+   louvain=0.8.0
+   umap-learn=0.5.5
+   numba=0.58.1
+   matplotlib=3.5.3
+   python-annoy=1.17.2
+   scikit-misc=0.1.4
