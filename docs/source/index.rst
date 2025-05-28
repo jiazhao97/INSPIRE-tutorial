@@ -15,7 +15,7 @@ By integrating multiple ST datasets with INSPIRE, users can:
 * Detect spatially variable genes, identify gene programs associated with specific spatial architectures in tissues, and conduct pathway enrichment analysis using non-negative gene loadings.
 
 
-INSPIRE Example Analyses
+Quick Start and Usage Instructions
 ==================
 .. toctree::
    :maxdepth: 2
