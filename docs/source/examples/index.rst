@@ -1,5 +1,5 @@
 
-Example analyses
+Instructions
 =========================================================
 
 .. toctree::
