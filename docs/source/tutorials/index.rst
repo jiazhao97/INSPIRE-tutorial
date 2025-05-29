@@ -13,3 +13,5 @@ Tutorials
    registration_merfish/index.rst
    registration_starmapplus/index.rst
    3d_reconstruction/index.rst
+   mouse_skin_repair/index.rst
+   human_breast_cancer_xenium/index.rst
