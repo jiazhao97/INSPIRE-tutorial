@@ -1,9 +1,9 @@
-Example 7: Spatial registration between two STARmap PLUS hippocampus slices.
+Example 7: Spatial registration between two STARmap PLUS hippocampus sections.
 =========================================================
 
 .. toctree::
    :maxdepth: 2
    
-   INSPIRE_registration_starmapplus_rtd
-   3d_starmapplus_rigid
-   3d_starmapplus_scores_rtd
+   INSPIRE_registration_starmapplus_rtd_updated
+   INSPIRE_registration_starmapplus_mnn
+   INSPIRE_registration_starmapplus_icp
