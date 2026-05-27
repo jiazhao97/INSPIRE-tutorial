@@ -9,3 +9,4 @@ Example 1: Analysis of human dorsolateral prefrontal cortex (DLPFC) dataset.
    DLPFC_trajectory
    DLPFC_proportion_analysis
    DLPFC_spatial_factors_rtd
+   INSPIRE_DLPFC_12sections
